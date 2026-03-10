@@ -1,2 +1,2 @@
-# Data-Analyst-Projects
-Portfolio of Data Analyst Projects Using Excel, Power Bi and SQL 
+# Data-Analyst-Projects Projects Using Excel and  Power Bi 
+Added Pizza Sales Power BI Dashboard Project.
